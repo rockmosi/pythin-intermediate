@@ -4,6 +4,7 @@
 
 ## Study plan
 ### Main ref: https://wikidocs.net/book/4542
+#### check source by chapter: https://wikidocs.net/81088
 ### 1 week - chap0 intro ~ chap1 Flask start
 ### 2 week - chap2 Flask basic
 ### 3 week - chap3 Flask advanced
