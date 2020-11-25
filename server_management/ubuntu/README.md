@@ -12,7 +12,7 @@ solotuion:
 ## ubuntu xrdp authentication is required to create a color managed device
 - ref: https://webhack.dynu.net/tip/20200227.001
 - sudo vi /etc/polkit-1/localauthority/50-local.d/color.pkla
-- after that\
+- after that paste it\
 [Allow colord for all users]
 Identity=unix-user:*\
 Action=org.freedesktop.color-manager.create-device;org.freedesktop.color-manager.create-profile;org.freedesktop.color-manager.delete-device;org.freedesktop.color-manager.delete-profile;org.freedesktop.color-manager.modify-device;org.freedesktop.color-manager.modify-profile\
