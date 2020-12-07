@@ -1,4 +1,4 @@
-# Userful information of Ubuntu
+# Useful information of Ubuntu
 
 ## ubuntu xrdp black screen
 how to install: https://websiteforstudents.com/how-to-connect-via-remote-desktop-rdp-to-ubuntu-20-04-18-04/
