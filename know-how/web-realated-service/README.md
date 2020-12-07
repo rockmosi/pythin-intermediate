@@ -1,4 +1,4 @@
-# Userful information of web-related-service
+# Useful information of web-related-service
 
 ## know-how
 
