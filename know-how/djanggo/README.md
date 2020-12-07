@@ -1,4 +1,4 @@
-# Userful information of Django
+# Useful information of Django
 
 ## know-how
 django 서버에서 동시접속자 증가시 502 발생 문제
