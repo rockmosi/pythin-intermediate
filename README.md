@@ -6,5 +6,5 @@
 ## To do list
 - [ ] python version issues 
 - [ ] python version 별 장점/단점
-- [ ] 파이썬 버전 별 새로운 문법
+- [ ] 파이썬 버전 별 새로운 문법 ipython 만들기
 
